@@ -1,0 +1,7 @@
+Language : java
+
+deploy :
+  provider : heroku
+  api_key :
+    secure : "62fe9c8d-62c7-4a76-9dce-fa85a19203e7"
+  app : test-spring-thib
